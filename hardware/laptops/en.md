@@ -1,6 +1,6 @@
 +++
 title = "Laptop Compatibility"
-lastmod = "2019-03-03T00:45:52+05:30"
+lastmod = "2019-05-27"
 +++
 # Laptop Compatibility
 
@@ -67,6 +67,10 @@ This list should not suggest that *only* such devices listed below are compatibl
 - Asus X551CAP
 - Asus ZenBook UX31A
 - Asus ZenBook UX305FA
+
+### Compaq
+
+- Compaq Presario CQ62
 
 ### Dell
 
@@ -197,6 +201,10 @@ This list should not suggest that *only* such devices listed below are compatibl
 ### System 76
 
 - System 76 Gazelle Professional
+
+### Teclast
+
+- Teclast F7
 
 ### Toshiba
 
